@@ -1,3 +1,4 @@
 activeuserprofiles=Morris-PC;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=Morris
+useridperkey=Morris-PC.Local\=Morris;
