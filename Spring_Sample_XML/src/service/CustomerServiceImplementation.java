@@ -4,11 +4,14 @@ import java.util.List;
 
 import model.Customer;
 import repository.CustomerRepository;
-import repository.HibernateCustomerRepositoryImplementation;
 
 public class CustomerServiceImplementation implements CustomerService {
 
-	private CustomerRepository customerRepository = new HibernateCustomerRepositoryImplementation();
+	private CustomerRepository customerRepository;
+
+	public void setCustomerRepository(CustomerRepository customerRepository) {
+		this.customerRepository = customerRepository;
+	}
 
 	/* (non-Javadoc)
 	 * @see service.CustomerService#findAll()
