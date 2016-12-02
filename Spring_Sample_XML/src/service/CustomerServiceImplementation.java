@@ -8,6 +8,10 @@ import repository.CustomerRepository;
 public class CustomerServiceImplementation implements CustomerService {
 
 	private CustomerRepository customerRepository;
+	
+	public CustomerServiceImplementation(CustomerRepository customerRepository) {
+		this.customerRepository = customerRepository;
+	}
 
 	public void setCustomerRepository(CustomerRepository customerRepository) {
 		this.customerRepository = customerRepository;
