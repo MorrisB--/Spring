@@ -9,11 +9,6 @@ public class CustomerServiceImplementation implements CustomerService {
 
 	private CustomerRepository customerRepository;
 	
-	// Spring needs to be able to see the default constructor
-	public CustomerServiceImplementation(){
-		
-	}
-	
 	public CustomerServiceImplementation(CustomerRepository customerRepository) {
 		this.customerRepository = customerRepository;
 	}

@@ -5,7 +5,7 @@
 
 	<bean name="customerRepository" class="repository.HibernateCustomerRepositoryImplementation" />
 
-	<bean name="customerService" class="service.CustomerServiceImplementation" autowire="byType" />
+	<bean name="customerService" class="service.CustomerServiceImplementation" autowire="constructor" />
 		<!-- Now using autowiring <constructor-arg index="0" ref="customerRepository" /> 
 	</bean> -->
 
