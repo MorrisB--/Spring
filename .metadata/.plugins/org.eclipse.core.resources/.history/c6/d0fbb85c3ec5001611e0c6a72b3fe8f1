@@ -6,20 +6,10 @@ import com.morrisballenger.model.Customer;
 import com.morrisballenger.repository.CustomerRepository;
 
 public class CustomerServiceImpl implements CustomerService {
-
+	
 	private CustomerRepository customerRepository; // = new HibernateCustomerRepositoryImpl();
 
-	public CustomerServiceImpl() {
-
-	}
-
-	public CustomerServiceImpl(CustomerRepository customerRepository) {
-		this.customerRepository = customerRepository;
-	}
-
-	/*
-	 * (non-Javadoc)
-	 * 
+	/* (non-Javadoc)
 	 * @see com.morrisballenger.service.CustomerService#findAll()
 	 */
 	@Override
