@@ -796,3 +796,9 @@ org.xml.sax.SAXParseException; lineNumber: 10; columnNumber: 29; Element type "c
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2016-12-18 10:30:26.655
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-12-18 10:31:03.352
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-12-18 10:31:03.355
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
