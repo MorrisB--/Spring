@@ -10,8 +10,8 @@ import com.morrisballenger.repository.CustomerRepository;
 
 @Service("customerService")
 public class CustomerServiceImpl implements CustomerService {
-
-	// @Autowired
+	
+	//@Autowired
 	private CustomerRepository customerRepository; // = new HibernateCustomerRepositoryImpl();
 
 	@Autowired
@@ -19,9 +19,7 @@ public class CustomerServiceImpl implements CustomerService {
 		this.customerRepository = customerRepository;
 	}
 
-	/*
-	 * (non-Javadoc)
-	 * 
+	/* (non-Javadoc)
 	 * @see com.morrisballenger.service.CustomerService#findAll()
 	 */
 	@Override
