@@ -1,26 +1,2 @@
 INDEX VERSION 1.129+D:\Users\Morris\Documents\GitHub\Spring\.metadata\.plugins\org.eclipse.jdt.core
-2778980874.index
-1654984216.index
-461669672.index
-3520661010.index
-4106453843.index
-949515501.index
-2448026493.index
-290714306.index
-358050146.index
-3097394219.index
-2460696304.index
-847618560.index
-881303192.index
-248351807.index
-3963179895.index
-1951397652.index
-881895235.index
-3776425001.index
-2143716467.index
-2394392208.index
-2958705335.index
-844601494.index
-870331796.index
-2610959875.index
-3184150794.index
+3796431636.index
