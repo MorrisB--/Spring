@@ -1650,3 +1650,9 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application referen
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
 !SUBENTRY 1 org.eclipse.jdt.launching 4 124 2016-12-18 11:56:14.422
 !MESSAGE Launch configuration Application references closed project Spring_Sample
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-12-18 11:57:11.925
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-12-18 11:57:11.928
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
