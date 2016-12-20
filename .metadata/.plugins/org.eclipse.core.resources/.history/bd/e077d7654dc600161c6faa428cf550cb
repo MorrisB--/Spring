@@ -4,14 +4,11 @@ import java.util.List;
 
 import com.morrisballenger.model.Customer;
 import com.morrisballenger.repository.CustomerRepository;
+import com.morrisballenger.repository.HibernateCustomerRepositoryImpl;
 
 public class CustomerServiceImpl implements CustomerService {
 	
-	private CustomerRepository customerRepository; // = new HibernateCustomerRepositoryImpl();
-
-	public void setCustomerRepository(CustomerRepository customerRepository) {
-		this.customerRepository = customerRepository;
-	}
+	private CustomerRepository customerRepository = new HibernateCustomerRepositoryImpl();
 
 	/* (non-Javadoc)
 	 * @see com.morrisballenger.service.CustomerService#findAll()

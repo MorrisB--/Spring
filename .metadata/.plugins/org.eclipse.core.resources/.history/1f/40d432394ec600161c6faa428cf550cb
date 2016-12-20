@@ -10,8 +10,7 @@ public class Application {
 
 		ApplicationContext appContext = new AnnotationConfigApplicationContext(AppConfig.class);
 
-		// CustomerService service = new CustomerServiceImpl();
-		CustomerService service = appContext.getBean("customerSerivce", CustomerService.class);
+		CustomerService service = new CustomerServiceImpl();
 		System.out.println(service.findAll().get(0).getFirstName());
 
 	}
