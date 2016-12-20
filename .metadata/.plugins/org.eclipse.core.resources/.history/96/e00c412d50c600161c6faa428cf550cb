@@ -11,14 +11,13 @@ import com.morrisballenger.service.CustomerServiceImpl;
 @ComponentScan({ "com.morrisballenger" })
 public class AppConfig {
 
-	/* Autowired
 	// Setter injection
 	@Bean(name = "customerService")
 	public CustomerService getCustomerService() {
 		CustomerServiceImpl service = new CustomerServiceImpl();
-		//service.setCustomerRepository(getCustomerRepository());
+		service.setCustomerRepository(getCustomerRepository());
 		return service;
-	}*/
+	}
 
 	/* Constructor injection
 	@Bean(name = "customerService")
@@ -28,8 +27,8 @@ public class AppConfig {
 	}
 	*/
 
-	/*@Bean(name = "customerRepository")
+	@Bean(name = "customerRepository")
 	public CustomerRepository getCustomerRepository() {
 		return new HibernateCustomerRepositoryImpl();
-	}*/
+	}
 }
