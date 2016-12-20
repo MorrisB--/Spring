@@ -9,22 +9,14 @@ import com.morrisballenger.service.CustomerServiceImpl;
 @Configuration
 public class AppConfig {
 
-	/*
-	 * Setter injection
-	 * 
-	 * @Bean(name = "customerService") public CustomerService
-	 * getCustomerService() { CustomerServiceImpl service = new
-	 * CustomerServiceImpl();
-	 * service.setCustomerRepository(getCustomerRepository()); return service; }
-	 */
-
 	@Bean(name = "customerService")
 	public CustomerService getCustomerService() {
-		CustomerServiceImpl service = new CustomerServiceImpl(getCustomerRepository());
-		return service;
+		CustomerServiceImpl service = new CustomerServiceImpl();
+		service.setCustomerRepository(getCustomerRepository());
+		return service; 
 	}
 
-	@Bean(name = "customerRepository")
+	@Bean(name ="customerRepository")
 	public CustomerRepository getCustomerRepository() {
 		return new HibernateCustomerRepositoryImpl();
 	}
