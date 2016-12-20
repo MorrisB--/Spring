@@ -1,4 +1,14 @@
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
+import com.morrisballenger.service.CustomerService;
+import com.morrisballenger.service.CustomerServiceImpl;
+
+@Configuration
 public class AppConfig {
 
+	@Bean(name = "customerService")
+	public CustomerService getCustomerService() {
+		return new CustomerServiceImpl();
+	}
 }
