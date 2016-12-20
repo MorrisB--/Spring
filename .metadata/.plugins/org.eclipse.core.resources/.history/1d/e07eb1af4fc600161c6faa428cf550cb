@@ -8,24 +8,23 @@ import com.morrisballenger.service.CustomerService;
 import com.morrisballenger.service.CustomerServiceImpl;
 
 @Configuration
-@ComponentScan({ "com.morrisballenger" })
+@ComponentScan({"com.morrisballenger"})
 public class AppConfig {
 
-	// Setter injection
-	@Bean(name = "customerService")
-	public CustomerService getCustomerService() {
-		CustomerServiceImpl service = new CustomerServiceImpl();
-		service.setCustomerRepository(getCustomerRepository());
-		return service;
-	}
+	/*
+	 * Setter injection
+	 * 
+	 * @Bean(name = "customerService") public CustomerService
+	 * getCustomerService() { CustomerServiceImpl service = new
+	 * CustomerServiceImpl();
+	 * service.setCustomerRepository(getCustomerRepository()); return service; }
+	 */
 
-	/* Constructor injection
 	@Bean(name = "customerService")
 	public CustomerService getCustomerService() {
 		CustomerServiceImpl service = new CustomerServiceImpl(getCustomerRepository());
 		return service;
 	}
-	*/
 
 	@Bean(name = "customerRepository")
 	public CustomerRepository getCustomerRepository() {
