@@ -1240,3 +1240,20 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application (2) ref
 2016-12-19 19:07:53,673 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
 2016-12-19 19:07:53,675 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-19 19:07:53,676 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 18:59:50,951 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.morrisballenger:Spring_Sample_Java:0.0.1-SNAPSHOT @ D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\pom.xml.
+2016-12-20 18:59:52,175 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 18:59:52,178 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 18:59:52,179 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 18:59:52,180 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 19:31:42,378 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:31:42,379 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 19:31:42,380 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:31:42,380 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 19:33:06,727 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:33:06,729 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 19:33:06,730 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:33:06,730 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 19:34:25,089 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:34:25,089 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 19:34:25,090 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:34:25,091 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
