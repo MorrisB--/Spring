@@ -6,8 +6,11 @@
 	<bean name="customerRepository"
 		class="com.morrisballenger.repository.HibernateCustomerRepositoryImpl" />
 
-	<bean name="customerService" class="com.morrisballenger.service.CustomerServiceImpl" autowire="byType">
-		<!-- <constructor-arg index="0"customerRepository" ref="customerRepository" /> -->
+	<bean name="customerService" class="com.morrisballenger.service.CustomerServiceImpl"
+		autowire="byType" scope="prototype"> <!-- Default is singleton -->
+		<!-- <constructor-arg index="0"customerRepository" ref="customerRepository" 
+			/> -->
 	</bean>
-	
+
 </beans>
+ 

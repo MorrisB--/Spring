@@ -1240,3 +1240,129 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application (2) ref
 2016-12-19 19:07:53,673 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
 2016-12-19 19:07:53,675 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-19 19:07:53,676 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 18:59:50,951 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.morrisballenger:Spring_Sample_Java:0.0.1-SNAPSHOT @ D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\pom.xml.
+2016-12-20 18:59:52,175 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 18:59:52,178 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 18:59:52,179 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 18:59:52,180 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 19:31:42,378 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:31:42,379 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 19:31:42,380 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:31:42,380 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 19:33:06,727 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:33:06,729 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 19:33:06,730 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:33:06,730 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 19:34:25,089 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:34:25,089 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 19:34:25,090 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:34:25,091 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 19:36:34,427 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:36:34,427 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 19:36:34,428 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 19:36:34,429 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 20:53:23,564 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.morrisballenger:Spring_Sample_XML:0.0.1-SNAPSHOT @ D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\pom.xml.
+2016-12-20 20:53:24,077 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:53:24,081 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:53:24,086 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:53:24,086 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\src\test\resources
+2016-12-20 20:53:44,947 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:53:44,949 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:53:44,954 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:53:44,954 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\src\test\resources
+2016-12-20 20:54:20,416 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:54:20,418 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:54:20,420 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:54:20,420 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\src\test\resources
+2016-12-20 20:56:29,171 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:56:29,172 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:56:29,174 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:56:29,175 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\src\test\resources
+2016-12-20 20:57:43,394 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:57:43,395 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:57:43,396 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:57:43,397 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\src\test\resources
+2016-12-20 21:02:57,981 [Worker-65] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Application (1) references closed project Spring_Sample_XML
+org.eclipse.core.runtime.CoreException: Launch configuration Application (1) references closed project Spring_Sample_XML
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-12-20 21:02:58,027 [Worker-65] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Application (1) references closed project Spring_Sample_XML
+org.eclipse.core.runtime.CoreException: Launch configuration Application (1) references closed project Spring_Sample_XML
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-12-20 21:02:58,035 [Worker-65] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Application (1) references closed project Spring_Sample_XML
+org.eclipse.core.runtime.CoreException: Launch configuration Application (1) references closed project Spring_Sample_XML
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1280) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-12-20 21:03:00,226 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.morrisballenger:Spring_Sample_Java:0.0.1-SNAPSHOT @ D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\pom.xml.
+2016-12-20 21:03:01,264 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 21:03:01,265 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 21:03:01,266 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 21:03:01,269 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
+2016-12-20 21:03:34,928 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 21:03:34,928 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\main\resources
+2016-12-20 21:03:34,929 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 21:03:34,930 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_Java\src\test\resources
