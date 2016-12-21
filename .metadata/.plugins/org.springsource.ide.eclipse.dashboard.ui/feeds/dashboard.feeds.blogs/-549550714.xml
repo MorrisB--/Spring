@@ -33,8 +33,8 @@
 &lt;/ul&gt;</content>
   </entry>
   <entry>
-    <title>Spring Cloud Spinnaker 1.0.0.M2</title>
-    <link rel="alternate" href="https://spring.io/blog/2016/12/19/spring-cloud-spinnaker-1-0-0-m2" />
+    <title>Spring Cloud Spinnaker 1.0.0.M3</title>
+    <link rel="alternate" href="https://spring.io/blog/2016/12/19/spring-cloud-spinnaker-1-0-0-m3" />
     <category term="engineering" label="Engineering" />
     <author>
       <name>Greg Turnquist</name>
@@ -46,6 +46,9 @@
 &lt;/div&gt;
 &lt;div class="paragraph"&gt;
 &lt;p&gt;I am happy to release the second milestone for &lt;a href="https://cloud.spring.io/spring-cloud-spinnaker/"&gt;Spring Cloud Spinnaker&lt;/a&gt;. Spring Cloud Spinnaker bundles up the &lt;a href="http://www.spinnaker.io/"&gt;continuous delivery Spinnaker platform&lt;/a&gt;, and provides a 1-click installer to let you install it to any &lt;a href="https://www.cloudfoundry.org/use/cloud-foundry-certified/"&gt;certified Cloud Foundry provider&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="paragraph"&gt;
+&lt;p&gt;UPDATE: This blog post originally cited M2, however one of our early adopters spotted a &lt;a href="https://github.com/spring-cloud/spring-cloud-spinnaker/issues/118"&gt;critical bug&lt;/a&gt;, so M3 has been built and released with the fix in hand.&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="paragraph"&gt;
 &lt;p&gt;Key features included in this release:&lt;/p&gt;

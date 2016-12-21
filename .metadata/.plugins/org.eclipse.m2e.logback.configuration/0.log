@@ -1278,3 +1278,7 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application (2) ref
 2016-12-20 20:56:29,172 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2016-12-20 20:56:29,174 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2016-12-20 20:56:29,175 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\src\test\resources
+2016-12-20 20:57:43,394 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:57:43,395 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-20 20:57:43,396 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-20 20:57:43,397 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Users\Morris\Documents\GitHub\Spring\Spring_Sample_XML\src\test\resources
