@@ -7,17 +7,27 @@ import com.morrisballenger.model.Customer;
 
 public class HibernateCustomerRepositoryImpl implements CustomerRepository {
 
-	/* (non-Javadoc)
+	private String dbUsername;
+
+	public void setDbUsername(String dbUsername) {
+		this.dbUsername = dbUsername;
+	}
+
+	/*
+	 * (non-Javadoc)
+	 * 
 	 * @see com.morrisballenger.repository.CustomerRepository#findAll()
 	 */
 	@Override
 	public List<Customer> findAll() {
+		System.out.println(dbUsername);
+		
 		List<Customer> customers = new ArrayList<>();
 		Customer customer = new Customer();
 
 		customer.setFirstName("FirstName0");
 		customer.setLastName("LastName0");
-		
+
 		customers.add(customer);
 
 		return customers;
