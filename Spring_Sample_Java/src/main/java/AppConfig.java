@@ -1,15 +1,18 @@
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-
-import com.morrisballenger.repository.CustomerRepository;
-import com.morrisballenger.repository.HibernateCustomerRepositoryImpl;
-import com.morrisballenger.service.CustomerService;
-import com.morrisballenger.service.CustomerServiceImpl;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.context.support.PropertySourcesPlaceholderConfigurer;
 
 @Configuration
 @ComponentScan({ "com.morrisballenger" })
+@PropertySource("app.properties")
 public class AppConfig {
+	
+	@Bean
+	public static PropertySourcesPlaceholderConfigurer getPropertySourcesPlaceholderConfigurer() {
+		return new PropertySourcesPlaceholderConfigurer();
+	}
 
 	/* Autowired
 	// Setter injection
